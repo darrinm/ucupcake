@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Cupcake - Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Cupcake - iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>CupcakeEditor - Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>UE4CmdLineRun.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>UE4XcodeHelper.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0AAF47E842FC95A6DABE1DDC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>765EC7CAFD4ECE24A1240455</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D14137979B9E45E52EEF2906</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DD8E7D22707902663D32F7AB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FBA4778B5538521955DB3590</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

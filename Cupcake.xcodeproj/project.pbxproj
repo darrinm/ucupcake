@@ -126,7 +126,7 @@
 /* Begin PBXLegacyTarget section */
 		765EC7CAFD4ECE24A1240455 /* CupcakeEditor - Mac */ = {
 			isa = PBXLegacyTarget;
-			buildArgumentsString = "$(ACTION) CupcakeEditor $(PLATFORM_NAME) $(CONFIGURATION) \"$(PROJECT_DIR)/UCupcake.uproject\"";
+			buildArgumentsString = "$(ACTION) CupcakeEditor $(PLATFORM_NAME) $(CONFIGURATION) \"$(PROJECT_DIR)/Cupcake.uproject\"";
 			buildConfigurationList = 6FE1A488414BF53673BCF984 /* Build configuration list for PBXLegacyTarget "CupcakeEditor - Mac" */;
 			buildPhases = (
 			);
@@ -610,17 +610,17 @@
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_RESOURCE_RULES_PATH = /Users/Shared/UnrealEngine/4.1/Engine/Build/iOS/XcodeSupportFiles/CustomResourceRules.plist;
-				CONFIGURATION_BUILD_DIR = /Users/darrin/src/Cupcake/Binaries/IOS/Payload;
-				INFOPLIST_FILE = "/Users/darrin/src/Cupcake/Intermediate/IOS/Cupcake-Info.plist";
+				CONFIGURATION_BUILD_DIR = /Users/Shared/UnrealEngine/4.1/Engine/Binaries/IOS/Payload;
+				INFOPLIST_FILE = "/Users/Shared/UnrealEngine/4.1/Engine/Source/Programs/Cupcake/Resources/IOS/Cupcake-Info.plist";
 				INFOPLIST_OUTPUT_FORMAT = xml;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				OBJROOT = /Users/darrin/src/Cupcake/Intermediate/IOS/build;
+				OBJROOT = /Users/Shared/UnrealEngine/4.1/Engine/Intermediate/IOS/build;
 				"PRODUCT_NAME[sdk=iphoneos*]" = Cupcake;
 				"PRODUCT_NAME[sdk=iphonesimulator*]" = "Cupcake-simulator";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SYMROOT = /Users/darrin/src/Cupcake/Binaries/IOS;
+				SYMROOT = /Users/Shared/UnrealEngine/4.1/Engine/Binaries/IOS/Payload;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = DebugGame;
@@ -655,17 +655,17 @@
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_RESOURCE_RULES_PATH = /Users/Shared/UnrealEngine/4.1/Engine/Build/iOS/XcodeSupportFiles/CustomResourceRules.plist;
-				CONFIGURATION_BUILD_DIR = /Users/darrin/src/Cupcake/Binaries/IOS/Payload;
-				INFOPLIST_FILE = "/Users/darrin/src/Cupcake/Intermediate/IOS/Cupcake-Info.plist";
+				CONFIGURATION_BUILD_DIR = /Users/Shared/UnrealEngine/4.1/Engine/Binaries/IOS/Payload;
+				INFOPLIST_FILE = "/Users/Shared/UnrealEngine/4.1/Engine/Source/Programs/Cupcake/Resources/IOS/Cupcake-Info.plist";
 				INFOPLIST_OUTPUT_FORMAT = xml;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				OBJROOT = /Users/darrin/src/Cupcake/Intermediate/IOS/build;
+				OBJROOT = /Users/Shared/UnrealEngine/4.1/Engine/Intermediate/IOS/build;
 				"PRODUCT_NAME[sdk=iphoneos*]" = Cupcake;
 				"PRODUCT_NAME[sdk=iphonesimulator*]" = "Cupcake-simulator";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SYMROOT = /Users/darrin/src/Cupcake/Binaries/IOS;
+				SYMROOT = /Users/Shared/UnrealEngine/4.1/Engine/Binaries/IOS/Payload;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Development;
@@ -715,17 +715,17 @@
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_RESOURCE_RULES_PATH = /Users/Shared/UnrealEngine/4.1/Engine/Build/iOS/XcodeSupportFiles/CustomResourceRules.plist;
-				CONFIGURATION_BUILD_DIR = /Users/darrin/src/Cupcake/Binaries/IOS/Payload;
-				INFOPLIST_FILE = "/Users/darrin/src/Cupcake/Intermediate/IOS/Cupcake-Info.plist";
+				CONFIGURATION_BUILD_DIR = /Users/Shared/UnrealEngine/4.1/Engine/Binaries/IOS/Payload;
+				INFOPLIST_FILE = "/Users/Shared/UnrealEngine/4.1/Engine/Source/Programs/Cupcake/Resources/IOS/Cupcake-Info.plist";
 				INFOPLIST_OUTPUT_FORMAT = xml;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				OBJROOT = /Users/darrin/src/Cupcake/Intermediate/IOS/build;
+				OBJROOT = /Users/Shared/UnrealEngine/4.1/Engine/Intermediate/IOS/build;
 				"PRODUCT_NAME[sdk=iphoneos*]" = Cupcake;
 				"PRODUCT_NAME[sdk=iphonesimulator*]" = "Cupcake-simulator";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SYMROOT = /Users/darrin/src/Cupcake/Binaries/IOS;
+				SYMROOT = /Users/Shared/UnrealEngine/4.1/Engine/Binaries/IOS/Payload;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Shipping;
